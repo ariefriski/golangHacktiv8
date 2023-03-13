@@ -24,7 +24,7 @@ func LoopingAndCount (word string){
 }
 
 func main() {
-	const kata = "Aqu A"
+	const kata = "selamat malam"
 
 	LoopingAndCount(kata)
 }
